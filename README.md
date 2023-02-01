@@ -12,9 +12,6 @@ brad frost의 [아토믹 디자인](https://atomicdesign.bradfrost.com/chapter-
 
 단계별로 추상적인 것에서 구체화하는 단계를 가진다. 리액트의 컴포넌트 방식의 개발에 아주 잘 어울린다.
 
-![[https://atomicdesign.bradfrost.com/chapter-2/](https://atomicdesign.bradfrost.com/chapter-2/)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c41d2f6-78b2-448f-93f5-ac752788e4f9/Untitled.png)
-
-[https://atomicdesign.bradfrost.com/chapter-2/](https://atomicdesign.bradfrost.com/chapter-2/)
 
 ## Atom
 
